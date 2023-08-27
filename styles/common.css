@@ -1,0 +1,14 @@
+/* Common styles */
+.body {
+    margin-right: 0px;
+    font-family: "Inter", sans-serif; 
+}
+
+h1, h2, h3, p {
+    display: inline;
+}
+
+
+
+
+
